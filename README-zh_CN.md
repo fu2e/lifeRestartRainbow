@@ -1,4 +1,4 @@
-# Life Restart
+# Life Restart Rainbow
 
 <a href="https://discord.gg/U3qrf49NMQ"><img src="https://img.shields.io/discord/883382868427014255?color=%23FEE75C&label=Discord&logo=discord&logoColor=white&style=for-the-badge" /></a>
 
@@ -6,7 +6,7 @@
 
 ## 简介
 
-- Game Life Restart
+- Game Life Restart Rainbow Edition
 
 ## 使用
 
@@ -58,15 +58,3 @@ node repl
 ```
 
 </details>
-
-## 其他版本
-
-<details>
-<summary><strong>版本列表</strong></summary>
-<br />
-
-- Cocos版：[gameall3d/LifeRestart_Cocos](https://github.com/gameall3d/LifeRestart_Cocos)
-
-</details>
-
-> 更多信息请参考 [官网文档](https://liferestart.syaro.io/)。
