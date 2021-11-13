@@ -31,7 +31,7 @@ jobs:
         uses: Burnett01/rsync-deployments@5.1
         with:
           switches: -avzr --delete
-          path: dist/
+          path: src/
           remote_path: /www/server/nginx/html/life
           remote_host: 42.193.137.196
           remote_user: root
